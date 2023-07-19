@@ -1,0 +1,19 @@
+2023-07-06 15:16:12.737 信息 [Thread 89] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'AK:Global_ChainProtection_In3' detected, additional response from: /192.168.8.122:5064
+2023-07-06 15:16:12.738 信息 [Thread 89] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'AK:Global_ChainProtection_Out1' detected, additional response from: /192.168.8.122:5064
+2023-07-06 15:16:12.738 信息 [Thread 89] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'AK:Global_ChainProtection_Out2' detected, additional response from: /192.168.8.122:5064
+2023-07-06 15:16:12.738 信息 [Thread 89] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'AK:Global_ChainProtection_Out3' detected, additional response from: /192.168.8.122:5064
+2023-07-06 15:16:12.739 信息 [Thread 89] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'AK:Global_ChainProtection_In4' detected, additional response from: /192.168.8.122:5064
+2023-07-06 15:16:12.739 信息 [Thread 89] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'AK:Global_ChainProtection_Out4' detected, additional response from: /192.168.8.122:5064
+2023-07-06 15:16:12.739 信息 [Thread 89] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'AK:Global_ChainProtection_BeamLineReady' detected, additional response from: /192.168.8.122:5064
+2023-07-06 15:16:12.739 信息 [Thread 89] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'AK:Global_ChainProtection_StorageRingReady' detected, additional response from: /192.168.8.122:5064
+2023-07-06 15:16:12.739 信息 [Thread 89] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'AK:Global_ChainProtection_Done' detected, additional response from: /192.168.8.122:5064
+2023-07-06 15:16:12.739 信息 [Thread 89] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'AK:Global_ChainProtection_Triggered' detected, additional response from: /192.168.8.122:5064
+2023-07-06 15:16:17.826 信息 [Thread 87] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'AK:Global_ChainProtection_ManualOperation' detected, additional response from: /192.168.8.122:5064
+2023-07-17 11:40:13.514 信息 [Thread 23] org.csstudio.security.authentication.UnattendedCallbackHandler (handleText) - OK
+2023-07-17 11:40:17.976 信息 [Thread 1] org.diirt.util.config.Configuration (getFile) - Loading C:\Users\ADMINI~1\AppData\Local\Temp\DIIRT4890658721617704198\datasources\datasources.xml
+2023-07-17 11:40:27.289 信息 [Thread 1] org.diirt.util.config.Configuration (getFile) - Loading C:\Users\ADMINI~1\AppData\Local\Temp\DIIRT4890658721617704198\datasources\datasources.xml
+2023-07-17 15:23:35.300 信息 [Thread 22] org.csstudio.security.authentication.UnattendedCallbackHandler (handleText) - OK
+2023-07-17 15:23:37.095 信息 [Thread 1] org.diirt.util.config.Configuration (getFile) - Loading C:\Users\ADMINI~1\AppData\Local\Temp\DIIRT2384354288513259350\datasources\datasources.xml
+2023-07-17 15:23:37.168 信息 [Thread 1] org.diirt.util.config.Configuration (getFile) - Loading C:\Users\ADMINI~1\AppData\Local\Temp\DIIRT2384354288513259350\datasources\datasources.xml
+2023-07-17 15:24:59.477 信息 [Thread 1] org.csstudio.opibuilder.runmode.LauncherHelper (systemPathToWorkspacePath) - A workspace match for D:/2.HEPS/00.量产信息备查/HEPS PROGRAM/IAMWCSS/CSS/IDControl.opi could not be found.
+2023-07-17 15:24:59.632 信息 [Thread 39] org.diirt.util.config.Configuration (getFile) - Loading C:\Users\ADMINI~1\AppData\Local\Temp\DIIRT2384354288513259350\datasources\ca\ca.xml
