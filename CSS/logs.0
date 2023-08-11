@@ -1,6 +1,12 @@
-2023-07-17 15:22:33.724 信息 [Thread 23] org.csstudio.security.authentication.UnattendedCallbackHandler (handleText) - OK
-2023-07-17 15:22:43.605 信息 [Thread 1] org.diirt.util.config.Configuration (getFile) - Loading C:\Users\ADMINI~1\AppData\Local\Temp\DIIRT7681190722772074808\datasources\datasources.xml
-2023-07-17 15:22:52.093 信息 [Thread 1] org.diirt.util.config.Configuration (getFile) - Loading C:\Users\ADMINI~1\AppData\Local\Temp\DIIRT7681190722772074808\datasources\datasources.xml
-2023-07-17 15:25:48.515 信息 [Thread 23] org.csstudio.security.authentication.UnattendedCallbackHandler (handleText) - OK
-2023-07-17 15:25:52.631 信息 [Thread 1] org.diirt.util.config.Configuration (getFile) - Loading C:\Users\ADMINI~1\AppData\Local\Temp\DIIRT7637756386642002867\datasources\datasources.xml
-2023-07-17 15:26:00.429 信息 [Thread 1] org.diirt.util.config.Configuration (getFile) - Loading C:\Users\ADMINI~1\AppData\Local\Temp\DIIRT7637756386642002867\datasources\datasources.xml
+2023-08-11 15:36:30.589 INFO [Thread 124] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'IAMW:Power' detected, additional response from: /169.254.148.38:5064
+2023-08-11 15:36:30.589 INFO [Thread 124] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'IAMW:Power' detected, additional response from: /192.168.8.117:5064
+2023-08-11 16:07:30.816 INFO [Thread 125] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'IAMW:Power' detected, additional response from: /169.254.148.38:5064
+2023-08-11 16:07:30.816 INFO [Thread 125] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'IAMW:Power' detected, additional response from: /192.168.8.117:5064
+2023-08-11 16:07:31.632 INFO [Thread 124] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'IAMW:GapMove' detected, additional response from: /169.254.148.38:5064
+2023-08-11 16:07:31.632 INFO [Thread 124] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'IAMW:GapMove' detected, additional response from: /192.168.8.117:5064
+2023-08-11 16:14:59.784 INFO [Thread 123] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'IAMW:GapMove' detected, additional response from: /169.254.148.38:5064
+2023-08-11 16:14:59.784 INFO [Thread 123] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'IAMW:GapMove' detected, additional response from: /192.168.8.117:5064
+2023-08-11 16:16:35.116 INFO [Thread 126] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'IAMW:GapMove' detected, additional response from: /169.254.148.38:5064
+2023-08-11 16:16:35.116 INFO [Thread 126] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'IAMW:GapMove' detected, additional response from: /192.168.8.117:5064
+2023-08-11 16:18:09.337 INFO [Thread 126] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'IAMW:GapMove' detected, additional response from: /169.254.148.38:5064
+2023-08-11 16:18:09.337 INFO [Thread 126] com.cosylab.epics.caj.CAJContext (searchResponse) - More than one PVs with name 'IAMW:GapMove' detected, additional response from: /192.168.8.117:5064
